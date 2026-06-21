@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Vishva Vanani 👋
 
-<!--
-**VishvaVanani/VishvaVanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at LD College of Engineering, Ahmedabad
 
-Here are some ideas to get you started:
+💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- DBMS
+- SQL
+- Git & GitHub
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Cloud Computing
+
+🚀 Projects
+
+- ServiceSphere (Service Booking Website)
+- Academic Projects
+- DSA Practice
+
+🎯 Career Goals
+
+- Secure a Software Engineering Internship
+- Build Real-World Projects
+- Contribute to Open Source
+- Become a Software Engineer
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vishva-vanani?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: vishvavanani12@gmail.com
+
+⚡ Fun Fact
+
+I enjoy learning new technologies and solving programming problems.
